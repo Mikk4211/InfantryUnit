@@ -2,6 +2,10 @@
 public class Musketeer extends InfantryUnit {
 
     public Musketeer(int range, int armor, int hits, int damage) {
-        super(8, 2, 23, 6);
+        super(range, armor, hits, damage);
+    }
+    public Musketeer(){
+            super(8, 2, 23, 6);
+
     }
 }

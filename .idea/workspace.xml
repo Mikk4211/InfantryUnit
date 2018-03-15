@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6c1870-3012-4caa-a85c-1f97a2db8810" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../InfantryUnit/src/HumanInfantryFactory.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InfantryUnit/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../InfantryUnit/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InfantryUnit/src/Archer.java" afterPath="$PROJECT_DIR$/../InfantryUnit/src/Archer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InfantryUnit/src/CrossbowMan.java" afterPath="$PROJECT_DIR$/../InfantryUnit/src/CrossbowMan.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InfantryUnit/src/InfantryUnit.java" afterPath="$PROJECT_DIR$/../InfantryUnit/src/InfantryUnit.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InfantryUnit/src/Musketeer.java" afterPath="$PROJECT_DIR$/../InfantryUnit/src/Musketeer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InfantryUnit/src/Rockhauler.java" afterPath="$PROJECT_DIR$/../InfantryUnit/src/Rockhauler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InfantryUnit/src/Spearthrower.java" afterPath="$PROJECT_DIR$/../InfantryUnit/src/Spearthrower.java" />
@@ -21,6 +21,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="InfantryUnit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/InfantryUnit.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Test.java">
+      <file leaf-file-name="HumanInfantryFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/HumanInfantryFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+            <state relative-caret-position="336">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -45,10 +55,12 @@
         <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Rockhauler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="42" />
               <folding>
                 <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,11 +69,13 @@
       <file leaf-file-name="Archer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Archer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="63">
+              <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,10 +85,10 @@
         <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/CrossbowMan.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
               <folding>
                 <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,10 +98,10 @@
         <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Musketeer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="42" />
               <folding>
                 <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,11 +110,13 @@
       <file leaf-file-name="Spearthrower.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Spearthrower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="147">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,13 +142,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../InfantryUnit/src/InfantryUnit.java" />
+        <option value="$PROJECT_DIR$/../InfantryUnit/src/Test.java" />
         <option value="$PROJECT_DIR$/../InfantryUnit/src/Rockhauler.java" />
         <option value="$PROJECT_DIR$/../InfantryUnit/src/Archer.java" />
         <option value="$PROJECT_DIR$/../InfantryUnit/src/CrossbowMan.java" />
         <option value="$PROJECT_DIR$/../InfantryUnit/src/Musketeer.java" />
         <option value="$PROJECT_DIR$/../InfantryUnit/src/Spearthrower.java" />
-        <option value="$PROJECT_DIR$/../InfantryUnit/src/InfantryUnit.java" />
-        <option value="$PROJECT_DIR$/../InfantryUnit/src/Test.java" />
+        <option value="$PROJECT_DIR$/../InfantryUnit/src/HumanInfantryFactory.java" />
       </list>
     </option>
   </component>
@@ -313,7 +330,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521100339610</updated>
-      <workItem from="1521100342768" duration="4121000" />
+      <workItem from="1521100342768" duration="5833000" />
     </task>
     <task id="LOCAL-00001" summary="Tilføjet noget damage reduction m.fl.">
       <created>1521102332855</created>
@@ -322,11 +339,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521102332855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Attack blocke er nu fikset, og der er kamp mellem to units, indtil at en units liv er reduceret til 0 eller under.">
+      <created>1521104493037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521104493037</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4121000" />
+    <option name="totallyTimeSpent" value="5833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -340,7 +364,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28476822" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28476822" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -369,65 +393,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tilføjet noget damage reduction m.fl." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tilføjet noget damage reduction m.fl." />
+    <MESSAGE value="Attack blocke er nu fikset, og der er kamp mellem to units, indtil at en units liv er reduceret til 0 eller under." />
+    <option name="LAST_COMMIT_MESSAGE" value="Attack blocke er nu fikset, og der er kamp mellem to units, indtil at en units liv er reduceret til 0 eller under." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/CrossbowMan.java">
+    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Spearthrower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Musketeer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Archer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Rockhauler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -439,10 +417,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Test.java">
+    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Rockhauler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        <state relative-caret-position="63">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="42" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Archer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/CrossbowMan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Musketeer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/Spearthrower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InfantryUnit/src/HumanInfantryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>

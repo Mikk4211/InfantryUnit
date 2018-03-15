@@ -14,9 +14,10 @@ public class Test {
             musk1.attack(arch1);
             System.out.println("It dealt "+musk1.damage + " damage");
             System.out.println("Archer now has " + arch1.hits + " hits.");
-            System.out.println("\n----");
+            System.out.println("----");
 
             if (arch1.hits<=0){
+                System.out.println();
                 System.out.println("The archer has fallen!");
             }
             if (musk1.hits<=0){
