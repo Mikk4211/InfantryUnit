@@ -20,15 +20,12 @@ public abstract class InfantryUnit {
         if(damage>reduction){
             hits = hits - (damage-reduction);
         }
-        System.out.println("Reduction : " +reduction);
-        System.out.println("Unit took "+ damage + " damage");
 
     }
 
     public void attack(InfantryUnit unit){
         int attackDamage = (int) (Math.random()*damage)+1;
         unit.takeDamage(attackDamage);
-        System.out.println("Unit dealt "+attackDamage + " damage.");
     }
 
 
